@@ -157,6 +157,10 @@ plugins:
     layout:
       position: left
       priority: 50
+    options:
+      folderClickBehavior: collapse
+      folderDefaultState: open
+      useSavedState: true
   - source: github:quartz-community/graph
     enabled: false
     layout:
@@ -196,7 +200,7 @@ plugins:
       position: left
       priority: 10
   - source: github:quartz-community/darkmode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 30
@@ -264,7 +268,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: obsidian
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:

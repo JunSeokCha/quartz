@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: junseokcha.com/quartz
+  baseUrl: 43.201.57.244
   ignorePatterns:
     - private
     - templates

@@ -1,0 +1,31 @@
+name: Deploy Quartz to Lightsail
+
+on:
+  push:
+    branches: main
+
+jobs:
+  runs-on: ubuntu-latest
+  steps:
+    - uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22'
+
+    - name: Install dependencies and Build
+      run: |
+        npm ci
+        npx quartz build
+    
+    - name: Deploy to AWS Lightsail
+      uses: easingthemes/ssh-deploy@main
+      env:
+        SSH_PRIVATE_KEY: ${{ secrets.LIGHTSAIL_SSH_KEY }}
+        ARGS: -rltgoDzv0 --delete
+        SOURCE: public/
+        REMOTE_HOST: ${{ secrets.LIGHTSAIL_HOST }}
+        REMOTE_USER: ${{ secrets.LIGHTSAIL_USER }}
+        TARGET: /usr/share/nginx/html/
+      

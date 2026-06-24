@@ -1,0 +1,1 @@
+I am not a web developer, so I am going to learn only the bare minimum web app development skills.

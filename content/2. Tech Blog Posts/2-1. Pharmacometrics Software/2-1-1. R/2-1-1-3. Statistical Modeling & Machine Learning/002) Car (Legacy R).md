@@ -1,0 +1,12 @@
+1. Anova
+2. avPlots
+3. bcPower
+4. Boot
+5. boxCox
+6. boxCoxVariable
+7. Boxplot
+8. boxTidwell
+9. brief
+10. car-defunct
+11. car-internal.Rd
+12. carHex

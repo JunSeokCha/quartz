@@ -1,1 +1,1 @@
-intro
+I rely on 100% on the W3school homepage tutorials on this topic.

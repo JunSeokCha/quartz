@@ -1,2 +1,1 @@
-
 I am Jun Seok Cha, a PhD candidate studying Pharmacometrics & Quantitative Systems Pharmacology.

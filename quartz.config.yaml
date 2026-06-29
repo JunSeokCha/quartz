@@ -40,7 +40,6 @@ configuration:
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
-  socialImage: website_logo.png
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true

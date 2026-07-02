@@ -230,6 +230,7 @@ plugins:
     options:
       links:
         GitHub: https://github.com/JunSeokCha
+        License: https://mit-license.org/
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer

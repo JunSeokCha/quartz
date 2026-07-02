@@ -1,0 +1,1 @@
+I have never used Stan. However, I will post what I think is interesting about this program.

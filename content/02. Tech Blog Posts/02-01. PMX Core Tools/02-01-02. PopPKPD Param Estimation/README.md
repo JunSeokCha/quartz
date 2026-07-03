@@ -1,0 +1,1 @@
+This folder contains my posts on population pharmacokinetics/pharmacodynamics parameter estimation.

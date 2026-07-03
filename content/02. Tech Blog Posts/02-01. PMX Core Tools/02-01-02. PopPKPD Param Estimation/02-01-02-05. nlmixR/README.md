@@ -1,0 +1,3 @@
+This folder contains my blog posts on nlmixR.
+
+I have never used nlmixR. However, I will post what I think is interesting about this program.

@@ -1,3 +1,5 @@
+Because of security concerns, I sandboxed Hermes Agent in a docker container.
+
 Docker containers are virtual OSes, kind of similar to virtual machines, but different. Virtual machines virtualize the hardware, which is further below the OS. So, dockers containers are shallower than a virtual machine.
 
 I focus in this post on using docker to sandbox a Hermes-Agent.

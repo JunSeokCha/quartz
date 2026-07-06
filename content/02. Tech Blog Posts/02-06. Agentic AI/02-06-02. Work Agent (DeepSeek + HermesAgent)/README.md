@@ -1,0 +1,1 @@
+I think the future is human-agentic AI companionship. I think I must restructure my routine and workflows in terms of agentic AI. To do this, I chose to harness DeepSeek with Hermes Agent.

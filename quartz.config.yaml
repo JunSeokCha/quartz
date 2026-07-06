@@ -218,10 +218,15 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: JunSeokCha/quartz
+        repoId: R_kgDOTCq6mA
+        category: Announcements
+        categoryId: DIC_kwDOTCq6mM4DAk2x
+        lang: en
     layout:
       position: afterBody
       priority: 10

@@ -45,3 +45,7 @@
 	6. Eindhoven University of Technology  
 		1. Dr. Natal van Riel
 3. Luxembourg
+
+Note:
+- How did Netherlands get to have so many pharmacometricians?
+	- Leiden University was a pioneer in establishing the field of mechanism-based PKPD modeling. They also partnered with CHDR to show the validity of their sophisticated models.

@@ -61,3 +61,24 @@
 5. Democratic People's Republic of Korea
 6. Vietnam
 7. Mongolia
+
+Notes:
+- Why does Republic of Korea have so many pharmacometricians?
+	- Four of the top 10 global clinical clinical trial center is located in Seoul and pharmaceutical companies favor doing trials there because it has good healthcare infrastructure and a concentrated population. 
+	- By good healthcare infrastructure:
+		- over 200 MFDS certified clinical trial sites
+		- digitization of clinical trial process
+	- Concentrated population is good because:
+		- rapid patient recruitment
+	- Plus, MFDS and KoNECT have efficient regulatory processes that avail fast completion of trials.
+- What are the Pros and Cons of the three asia-pacific clinical trial powerhouses?
+	- South Korea:
+		- fast and clean data but too small population
+		- -> Phase I & II
+	- China
+		- large population but strict data-export laws (U.S. BIOSECIRE Act, ...) and geopolitical friction
+		- -> Phase III & oncology
+	- India
+		- low operational costs and large population but slow trial enrollment
+		- -> Phase III & vaccine & generics
+- Japan has expensive operation costs but are popular for regenerative medicine trials and multi-national trials.

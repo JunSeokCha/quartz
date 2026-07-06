@@ -14,3 +14,6 @@
 8. Slovakia
 9. Bulgaria
 10. Moldova
+
+Note:
+- Eastern european countries have dense populations and high trial-compliance. This makes them popular for Phase III trials. Maybe there will be an increase of pharmacometricians there in the future.

@@ -24,3 +24,7 @@
 	1. Oregon State University College of Pharmacy Modeling Group
 5. Nevada
 
+Note:
+- Boston (MA), San Francisco Bay Area (CA), and Research Triangle Park (NC) are the center of US clinical trials. They do early-phase cell/gene therapy trials and oncology trials.
+- 
+

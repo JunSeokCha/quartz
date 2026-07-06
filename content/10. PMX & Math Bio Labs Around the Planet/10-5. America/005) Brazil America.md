@@ -3,3 +3,6 @@
 3. Universidade Federal do Rio Grande do Sul  
 	1.  Dr. Teresa Dalla Costa  
 	2. Dr. Bibiana Verlindo de Araujo
+
+Note:
+- Brazil is popular as a clinical trial site for global vaccine, infectious disease, and cardiovascular trials.

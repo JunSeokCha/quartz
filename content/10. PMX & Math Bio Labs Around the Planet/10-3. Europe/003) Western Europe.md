@@ -1,11 +1,9 @@
-Lixoft
-
 1. Ireland
 	1. University College Cork  
 		1. Dr. Maria Donovan  
 		2. Dr. Patrick O'Dwyer  
 		3. Dr. Joey O'Shea  
-  
+
 2. Britain  
 	1. University College London  
 		1. Dr. Joseph Standing  
@@ -40,3 +38,7 @@ Lixoft
 		1. Dr. Sébastien Benzekry  
 	9. Tours University  
 		1. Dr. David Ternant
+
+Note:
+- UK London-Cambridge-Oxford is the center of clinical trials.
+- France does a lot of complex oncology protocol trials.

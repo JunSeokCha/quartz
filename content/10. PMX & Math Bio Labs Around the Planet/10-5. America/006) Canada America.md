@@ -2,5 +2,6 @@
 	1. Dr. Andrea Edington
 2. University of Alberta Necyk Lab
 3. Université de Montréal Faculté de Pharmacie
-4. Lixoft has a presence in Montreal and Toronto
-5. Certara has presence in Canada
+
+Note:
+- Canada has a diverse population and a very fast regulatory process. So, it is favored for multi-national trials.

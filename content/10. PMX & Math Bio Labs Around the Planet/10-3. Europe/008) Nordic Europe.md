@@ -22,3 +22,9 @@ Pharmatheus
 3. Finland
 4. Iceland
 5. Norway
+
+Note:
+- Why are there many pharmacometricians in Sweden?
+	- Uppsala University was a pioneer in establishing the tradition of pharmacometrics itself.
+	- Uppsala University developed many open-source SW fundamental to the field itself (PsN, Xpose).
+	- Uppsala University trained good pharmacometricians (Summer Schools, etc)

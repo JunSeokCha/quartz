@@ -6,12 +6,11 @@
 	1. National & Kapodistrian University of Athens  
 		1. Dr. Aris Dokoumetzidis  
 		2. Dr. Panos Macheras
-3. albania
-4. bosnia and herzegovina
-5. bulgaria
-6. croatia
-7. greece
-8. kosovo
-9. montenegro
-10. north macedonia
-11. slovenia
+3. Albania
+4. Bosnia and Herzegovina
+5. Bulgaria
+6. Croatia
+7. Kosovo
+8. Montenegro
+9. North Macedonia
+10. Slovenia

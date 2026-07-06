@@ -28,3 +28,6 @@
 		1. Dr. Hesham Al-Sallami  
 		2. Dr. Xiao (Derek) Zhu  
 		3. Dr. Sudeep Pradhan
+
+Note:
+- Australia is very favored for Phase I FIH trials. Australian gov has big tax incentives for bio R&D and trials can be started before traditional IND approvals.

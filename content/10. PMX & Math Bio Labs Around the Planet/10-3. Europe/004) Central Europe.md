@@ -42,9 +42,13 @@
 		1. Dr. Matthias König  
 	13. LMU University  
 		1. Dr. Uwe Liebchen
+4. Slovenia
+5. Liechtenstein
 
 IntiQuan
 
 
-Slovenia
-Liechtenstein
+Note:
+- The thing about europe is that the whole continent operates under harmonized regulations. So, multi-national trials are easier.
+- Germany is very popular for clinical trials.
+- Switzerland has HQs for many big pharma companies.

@@ -1,6 +1,5 @@
-Pharmacometrics Excellence Center (Egypt)
-
 1. Egypt
+	1. Pharmacometrics Excellence Center
 2. Algeria
 3. Libya
 4. Morocco

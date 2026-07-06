@@ -38,3 +38,6 @@ InSilicoTrials
 		2. Dr. Luca Marchetti  
 	3. University of Padova  
 		1. Dr. Chiara Dalla Man
+
+Note:
+- Spain has a fast regulatory process and a good national hospital system.

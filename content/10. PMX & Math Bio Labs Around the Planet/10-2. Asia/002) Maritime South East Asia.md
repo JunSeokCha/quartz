@@ -7,6 +7,5 @@
 		3. Dr. Sabariah Noor Harun
 2. Brunei
 3. Indonesia
-4. Malaysia
-5. Philippines
-6. Timor-Leste
+4. Philippines
+5. Timor-Leste
